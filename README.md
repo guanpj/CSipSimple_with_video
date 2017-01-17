@@ -3,6 +3,10 @@ CSipSimple
 
 CSipSimple for Android Studio Project
 
+##add
+
+* no more need to video plugin, enabled for video chat now
+
 ##change
 
 * /res/values/wizard_sipgate_string.xml 
